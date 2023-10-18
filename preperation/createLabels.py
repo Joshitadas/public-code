@@ -23,7 +23,7 @@ import os
 import pandas as pd
 import shutil
 
-args = None
+args = "C:/Users/joshi/OneDrive/Desktop/intel/IDDattempt/cityscapes"
 
 
 def process_folder(fn):
